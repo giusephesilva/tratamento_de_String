@@ -1,0 +1,59 @@
+body{
+    background: url(simple-pattern-with-css3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center ;
+    font-family: Cambria;
+    color: rgb(232, 238, 244);
+    text-decoration: underline;
+}
+h3{
+    text-align: center ;
+    font-family: Cambria;
+    color: black;
+}
+.formulario{
+    text-align: center ;
+    font-family: Cambria;
+}
+.button{
+    text-align: center ;
+    font-family: Cambria;
+    background-color: white;
+    color: black;   
+}
+.button:hover{
+    text-align: center ;
+    font-family: Cambria;
+    background-color: cornflowerblue;
+    color: white;
+}
+.retorno{
+    text-align: center ;
+    font-family: Cambria;
+}
+fieldset{
+    text-align: center ;
+    font-family: Cambria;
+    border-color: rgb(8, 85, 152);
+    border-width: 5px;
+    background-color: rgb(183, 211, 211);
+}
+.return_home{
+    text-align: center ;
+    font-family: Cambria;
+}
+.return_home > a > button {
+    text-align: center ;
+    font-family: Cambria;
+    background-color: white;
+    color: black;
+}
+.return_home > a > button:hover {
+    text-align: center ;
+    font-family: Cambria;
+    background-color: cornflowerblue;
+    color: white;
+}
